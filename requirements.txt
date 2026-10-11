@@ -1,0 +1,8 @@
+numpy
+scipy
+stim
+pymatching
+ldpc
+openfermion
+openfermionpyscf
+pyscf
