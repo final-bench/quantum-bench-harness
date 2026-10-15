@@ -47,7 +47,7 @@ the ranking is reproducible and hardware-independent. Live board + Submit: the l
 
 | Season | Track | Opens | Deadline | Prize |
 |--------|-------|-------|----------|-------|
-| **1** | **Quantum Simulation** — Fermi-Hubbard ground-state energy (MAE vs exact, lower wins) | 2026-10-11 | **2027-02-28** | $1,000 (🥇600 / 🥈300 / 🥉100) |
+| **1** | **Quantum Simulation** — Fermi-Hubbard ground-state energy (lowest total energy wins; report all systems) | 2026-10-11 | **2027-02-28** | $1,000 (🥇600 / 🥈300 / 🥉100) |
 | **2** | **QEC Decoder** — rotated surface code d=5, p=0.005 (logical error rate, lower wins) | 2026-10-11 | **2027-03-31** | $1,000 (🥇600 / 🥈300 / 🥉100) |
 
 Public inputs: **`FINAL-Bench/oqc-data`** (HF dataset).
